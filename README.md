@@ -16,3 +16,9 @@
 - PostWrite : 글 작성
 - CommentWrite : 댓글 작성
 
+## 프로젝트 디렉터리 구조
+- src
+  - components
+    - list : 리스트와 관련된 Component
+    - page : 페이지 Component
+    - ui : UI Component
